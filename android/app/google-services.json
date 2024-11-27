@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205080018425",
+    "project_id": "fantasy-auf",
+    "storage_bucket": "fantasy-auf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205080018425:android:f4f6c31497867daa08d128",
+        "android_client_info": {
+          "package_name": "com.example.fantasy_auf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PSD67MSR8NjMXuq29DzqQgO4fv9Zw_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
